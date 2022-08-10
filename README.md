@@ -42,5 +42,5 @@ API_SECRET='<cloudinary-secret-code>'
 6. Open [localhost:3000](localhost:3000) on your browser.
 <br>
 
-###### This project was completed for the Web Developer Bootcamp 2022 Udemy Course
+###### This project was created for the Web Developer Bootcamp 2022 Udemy Course
 
