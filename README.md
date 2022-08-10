@@ -39,7 +39,7 @@ API_SECRET='<cloudinary-secret-code>'
 4. Run `mongod` and `mongo` in separate terminals. <br>
 5. Run `node app.js` in the terminal inside the root folder of the project.
 
-6. Open localhost:3000 on your browser.
+6. Open <a href="localhost:3000">localhost:3000</a> on your browser.
 <br>
 
 ###### This project was completed for the Web Developer Bootcamp 2022 Udemy Course
