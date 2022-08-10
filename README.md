@@ -19,5 +19,28 @@ Geocoding was done using Mapbox, while the Passport.js was used to handle authen
 <img src="https://user-images.githubusercontent.com/100396329/183913771-adc04dcc-651c-4db9-ab3d-4e584d9983a2.png" width=600px>
 <img src="https://user-images.githubusercontent.com/100396329/183913883-d6bd8a36-9403-4b5b-955e-a21129310f9b.png" width=600px>
 
+## Run the project locally
+1. Install mongodb
+2. Create a cloudinary account to get an API key and secret code
+
+```
+git clone https://github.com/jgbattung/CampFinder.git
+cd CampFinder/
+npm install
+```
+
+Create a .env file in the root of the project and add the following:
+```
+DATABASEURL='<cloudinary-url>'
+API_KEY=''<cloudinary-key>
+API_SECRET='<cloudinary-secret-code>'
+```
+
+Run `mongod` and `mongo` in separate terminals. <br>
+Run `node app.js` in the terminal inside the root folder of the project.
+
+Open localhost:3000 on your browser.
+<br>
+
 ###### This project was completed for the Web Developer Bootcamp 2022 Udemy Course
 
