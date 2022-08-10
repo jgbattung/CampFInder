@@ -29,17 +29,17 @@ cd CampFinder/
 npm install
 ```
 
-Create a .env file in the root of the project and add the following:
+3. Create a .env file in the root of the project and add the following:
 ```
 DATABASEURL='<cloudinary-url>'
 API_KEY=''<cloudinary-key>
 API_SECRET='<cloudinary-secret-code>'
 ```
 
-Run `mongod` and `mongo` in separate terminals. <br>
-Run `node app.js` in the terminal inside the root folder of the project.
+4. Run `mongod` and `mongo` in separate terminals. <br>
+5. Run `node app.js` in the terminal inside the root folder of the project.
 
-Open localhost:3000 on your browser.
+6. Open localhost:3000 on your browser.
 <br>
 
 ###### This project was completed for the Web Developer Bootcamp 2022 Udemy Course
