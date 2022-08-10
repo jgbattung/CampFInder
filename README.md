@@ -7,7 +7,7 @@ CampFinder is a website that helps users find and share information about the be
 ## Tools Used
 
 This project was created using JavaScript, Node.js, Express, MongoDB, and Bootstrap. <br>
-Geocoding was done using Mapbox, while the Passport.js was used to handle authentication. 
+Geocoding was done using Mapbox, while Passport.js was used to handle authentication. 
 
 ## Features
 
