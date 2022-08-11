@@ -4,7 +4,7 @@ CampFinder is a website that helps users find and share information about the be
 <!-- ![camp-home](https://user-images.githubusercontent.com/100396329/183911961-c95091f6-6236-4e2c-a605-863a9c8aa5c0.png | width=50) -->
 <img src="https://user-images.githubusercontent.com/100396329/183911961-c95091f6-6236-4e2c-a605-863a9c8aa5c0.png" width=600px>
 
-## Tools Used
+## Built with
 
 This project was created using JavaScript, Node.js, Express, MongoDB, and Bootstrap. <br>
 Geocoding was done using Mapbox, while Passport.js was used to handle authentication. 
