@@ -1,8 +1,7 @@
 # CampFinder
-CampFinder is a website that helps users find and share information about the best campgrounds around the world.
 
-<!-- ![camp-home](https://user-images.githubusercontent.com/100396329/183911961-c95091f6-6236-4e2c-a605-863a9c8aa5c0.png | width=50) -->
-<img src="https://user-images.githubusercontent.com/100396329/183911961-c95091f6-6236-4e2c-a605-863a9c8aa5c0.png" width=600px>
+## Overview
+CampFinder is a website that helps users find and share information about the best campgrounds around the world.
 
 ## Built with
 
@@ -16,8 +15,8 @@ Geocoding was done using Mapbox, while Passport.js was used to handle authentica
 3. Users can create and delete rating and reviews for each campground.
 4. Locate campgrounds using the interactive map
 
-<img src="https://user-images.githubusercontent.com/100396329/183913771-adc04dcc-651c-4db9-ab3d-4e584d9983a2.png" width=600px>
-<img src="https://user-images.githubusercontent.com/100396329/183913883-d6bd8a36-9403-4b5b-955e-a21129310f9b.png" width=600px>
+
+
 
 ## Run the project locally
 1. Install mongodb
@@ -41,6 +40,17 @@ API_SECRET='<cloudinary-secret-code>'
 
 6. Open [localhost:3000](localhost:3000) on your browser.
 <br>
+
+## Screens
+##Homepage
+<!-- ![camp-home](https://user-images.githubusercontent.com/100396329/183911961-c95091f6-6236-4e2c-a605-863a9c8aa5c0.png | width=50) -->
+<img src="https://user-images.githubusercontent.com/100396329/183911961-c95091f6-6236-4e2c-a605-863a9c8aa5c0.png" width=600px>
+
+## Camps Dashboard
+<img src="https://user-images.githubusercontent.com/100396329/183913771-adc04dcc-651c-4db9-ab3d-4e584d9983a2.png" width=600px>
+
+## Show Camp Page
+<img src="https://user-images.githubusercontent.com/100396329/183913883-d6bd8a36-9403-4b5b-955e-a21129310f9b.png" width=600px>
 
 ###### This project was created for the Web Developer Bootcamp 2022 Udemy Course
 
